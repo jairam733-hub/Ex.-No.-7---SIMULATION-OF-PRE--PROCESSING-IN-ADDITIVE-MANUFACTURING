@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 15/3/2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: JAIRAM J
+### Register Number: 212225040141
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
